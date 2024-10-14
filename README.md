@@ -5,4 +5,4 @@
 
 🔎 For detailed technical information, please refer to our recently completed paper at: “Waiting for the paper to be uploaded”
 
-![Alt text](https://github.com/odindis/SurvS/blob/main/SurvS_pipeline.png){: width="300" }
+<img src="https://github.com/odindis/SurvS/blob/main/SurvS_pipeline.png" alt="Alt text" width="200"/>
