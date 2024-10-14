@@ -3,6 +3,6 @@
 
 🧑‍🔬 We propose a survival separation method, called SurvS, for directly analyzing patient treatment responses.
 
-🔎 For detailed technical information, please refer to our recently completed paper at: <to be written>
+🔎 For detailed technical information, please refer to our recently completed paper at: “Waiting for the paper to be uploaded”
 
-<img src="https://github.com/odindis/SurvS/blob/main/SurvS_pipeline.png" width="70%">
+<img src="https://github.com/odindis/SurvS/blob/main/SurvS_pipeline.png" width="100%">
