@@ -1,2 +1,2 @@
 # SurvS
-<img src="https://github.com/odindis/SurvS/blob/main/SurvS%20pipeline.png" width="50%">
+<img src="https://github.com/odindis/SurvS/blob/main/SurvS_pipeline.png" width="50%">
