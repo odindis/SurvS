@@ -1,8 +1,6 @@
 # SurvS
-🛠️ The code is being organized and will be gradually open-sourced in the near future.
+🛠️ The code is being organized.
 
-🧑‍🔬 We propose a survival separation method, called SurvS, for directly analyzing patient treatment responses.
-
-🔎 For detailed technical information, please refer to our recently completed paper at: “Waiting for the paper to be uploaded”
+🔎 For detailed technical information, please refer to our recently completed paper.
 
 <img src="https://github.com/odindis/SurvS/blob/main/SurvS.png" alt="Alt text" width="700"/>
